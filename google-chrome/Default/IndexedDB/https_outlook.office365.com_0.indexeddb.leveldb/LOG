@@ -1,0 +1,14 @@
+2023/01/10-09:14:25.193 bdb Reusing MANIFEST /home/jmc/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-09:14:25.194 bdb Recovering log #50
+2023/01/10-09:14:25.194 bdb Reusing old log /home/jmc/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000050.log 
+2023/01/10-09:14:25.195 bdb Delete type=2 #48
+2023/01/10-09:14:26.223 bdb Level-0 table #55: started
+2023/01/10-09:14:26.224 bdb Level-0 table #55: 564 bytes OK
+2023/01/10-09:14:26.226 bdb Delete type=0 #50
+2023/01/10-09:14:26.226 bdb Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 544 : 1
+2023/01/10-09:14:26.226 bdb Compacting 1@0 + 1@1 files
+2023/01/10-09:14:26.228 bdb Generated table #56@0: 84 keys, 7387 bytes
+2023/01/10-09:14:26.228 bdb Compacted 1@0 + 1@1 files => 7387 bytes
+2023/01/10-09:14:26.230 bdb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-09:14:26.230 bdb Delete type=2 #55
+2023/01/10-09:14:26.230 bdb Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 544 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

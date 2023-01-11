@@ -1,0 +1,20 @@
+2023/01/10-09:14:13.261 3 Reusing MANIFEST /home/jmc/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/01/10-09:14:13.262 3 Recovering log #37
+2023/01/10-09:14:13.263 3 Level-0 table #40: started
+2023/01/10-09:14:13.266 3 Level-0 table #40: 42565 bytes OK
+2023/01/10-09:14:13.269 3 Delete type=0 #37
+2023/01/10-15:00:06.528 22 Level-0 table #43: started
+2023/01/10-15:00:06.539 22 Level-0 table #43: 68535 bytes OK
+2023/01/10-15:00:06.543 22 Delete type=0 #41
+2023/01/10-15:00:06.543 22 Compacting 4@0 + 1@1 files
+2023/01/10-15:00:06.548 22 Generated table #44@0: 398 keys, 99494 bytes
+2023/01/10-15:00:06.548 22 Compacted 4@0 + 1@1 files => 99494 bytes
+2023/01/10-15:00:06.550 22 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/10-15:00:06.552 22 Delete type=2 #35
+2023/01/10-15:00:06.552 22 Delete type=2 #32
+2023/01/10-15:00:06.552 22 Delete type=2 #38
+2023/01/10-15:00:06.552 22 Delete type=2 #43
+2023/01/10-15:00:06.552 22 Delete type=2 #40
+2023/01/10-16:13:17.960 36 Level-0 table #46: started
+2023/01/10-16:13:17.979 36 Level-0 table #46: 61549 bytes OK
+2023/01/10-16:13:17.986 36 Delete type=0 #42

@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=jackiemcghee@gmail.com
+Enabled=true
+Parent=2c8d7a1363175e996946341911ef07e9412a275d
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=8a31bb4f9f85abe8917ec27558aa71cb797ff160
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://7947f13b282e30441ecddad76914a14e50d8d0ba/%5bGmail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=jackiemcghee@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

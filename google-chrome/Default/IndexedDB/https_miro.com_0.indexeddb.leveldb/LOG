@@ -1,0 +1,6 @@
+2023/01/10-08:46:49.205 865 Creating DB /home/jmc/.config/google-chrome/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb since it was missing.
+2023/01/10-08:46:49.209 865 Reusing MANIFEST /home/jmc/.config/google-chrome/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-08:46:49.540 c08 Level-0 table #5: started
+2023/01/10-08:46:49.541 c08 Level-0 table #5: 555 bytes OK
+2023/01/10-08:46:49.543 c08 Delete type=0 #3
+2023/01/10-08:46:49.543 c08 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

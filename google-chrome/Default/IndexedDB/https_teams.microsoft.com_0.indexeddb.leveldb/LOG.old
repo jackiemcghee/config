@@ -1,0 +1,22 @@
+2023/01/10-09:08:28.734 1a80 Reusing MANIFEST /home/jmc/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-09:08:28.734 1a80 Recovering log #221
+2023/01/10-09:08:28.734 1a80 Reusing old log /home/jmc/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000221.log 
+2023/01/10-09:08:28.734 1a80 Delete type=2 #220
+2023/01/10-09:08:29.025 1a99 Compacting 1@1 + 5@2 files
+2023/01/10-09:08:29.059 1a99 Generated table #225@1: 1343 keys, 2143881 bytes
+2023/01/10-09:08:29.099 1a99 Generated table #226@1: 4301 keys, 2150265 bytes
+2023/01/10-09:08:29.125 1a99 Generated table #227@1: 5945 keys, 2168730 bytes
+2023/01/10-09:08:29.149 1a99 Generated table #228@1: 3141 keys, 2148051 bytes
+2023/01/10-09:08:29.176 1a99 Generated table #229@1: 12034 keys, 1454000 bytes
+2023/01/10-09:08:29.176 1a99 Compacted 1@1 + 5@2 files => 10064927 bytes
+2023/01/10-09:08:29.177 1a99 compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/01/10-09:08:39.449 1a9e Level-0 table #231: started
+2023/01/10-09:08:39.453 1a9e Level-0 table #231: 178994 bytes OK
+2023/01/10-09:08:39.454 1a9e Delete type=2 #217
+2023/01/10-09:08:39.454 1a9e Delete type=2 #216
+2023/01/10-09:08:39.454 1a9e Delete type=2 #223
+2023/01/10-09:08:39.454 1a9e Delete type=0 #221
+2023/01/10-09:08:39.454 1a9e Delete type=2 #214
+2023/01/10-09:08:39.454 1a9e Delete type=2 #215
+2023/01/10-09:08:39.454 1a9e Delete type=2 #218
+2023/01/10-09:08:39.455 1a9e Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
